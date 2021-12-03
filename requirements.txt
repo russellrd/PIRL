@@ -1,0 +1,5 @@
+opencv-python
+imutils
+pillow
+cx_Freeze
+pymunk
