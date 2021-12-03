@@ -17,17 +17,17 @@ Allows a user to play a real-life pool game against a computer using a physics e
 This menu has multiple HSV sliders to calibrate a mask for each pool ball color.
 
 ## Future Features
-- [] Check if ball reaches pocket
-- [] Check win conditions
-- [] Fix intaller for releases
-- [] Better AI
-- [] Error handling
-- [] Table calibration
-- [] Add docustring comments
-- [] Add tests
-- [] Fix background image scaling
-- [] Auto update when slider is moved
-- [] Audio files
+- [ ] Check if ball reaches pocket
+- [ ] Check win conditions
+- [ ] Fix intaller for releases
+- [ ] Better AI
+- [ ] Error handling
+- [ ] Table calibration
+- [ ] Add docustring comments
+- [ ] Add tests
+- [ ] Fix background image scaling
+- [ ] Auto update when slider is moved
+- [ ] Audio files
 
 ## Installation
 
